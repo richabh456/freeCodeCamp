@@ -4,7 +4,7 @@ title: Backtracking Algorithms
 
 # Backtracking Algorithms
 
-Backtracking is a general algorithm for finding all (or some) solutions to some computational problems, notably constraint satisfaction problems, that incrementally builds candidates to the solutions, and abandons each partial candidate *("backtracks")* as soon as it determines that the candidate cannot possibly be completed to a valid solution.
+Backtracking is a general algorithm for finding all (or some) solutions to some computational problems, notably constraint satisfaction problems, that incrementally build candidates to the solutions, and abandons each partial candidate *("backtracks")* as soon as it determines that the candidate cannot possibly be completed to a valid solution.
 
 Application of Backtracking
 
@@ -25,7 +25,7 @@ Examples where backtracking can be used to solve puzzles or problems include:
   [![The knight's tour solution - by Euler](https://upload.wikimedia.org/wikipedia/commons/d/df/Knights_tour_%28Euler%29.png)](https://commons.wikimedia.org/wiki/File:Knights_tour_(Euler).png)
 
 ### Naive Algorithm for Knight’s tour
-The Naive Algorithm is to generate all tours one by one and check if the generated tour satisfies the constraints.
+The Naive Algorithm is to generate all tours one by one and check wheteher the generated tour satisfies the constraints.
 ```
 while there are untried tours
 { 
