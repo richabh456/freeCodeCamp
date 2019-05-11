@@ -30,7 +30,7 @@ Disadvantages of Web Forms:
 ASP.NET Web Pages is a framework for creating small and simple websites. Web Pages can be created using free WebMatrix editor. WebMatrix is an application containing text editor, tools for managing databases and application test server. In Web Pages views are created using Razor language (just like in ASP.NET MVC).
 
 #### ASP.NET MVC
-ASP.NET MVC is a framework for building web applications based on MVC pattern (model-view-controller). ASP.NET MVC is a great solution for creating large web applications as it support Separation of Concern, unit tests, has modular constuction and make it easy to maintain even large applications. With MVC pattern there is a clear separation between business logic and views. For creating views razor language is used and for business logic can be used any language supported by the .NET common language runtime (ex. C#, VB).  
+ASP.NET MVC is a framework for building web applications based on MVC pattern (model-view-controller). ASP.NET MVC is a great solution for creating large web applications as it support Separation of Concern, unit tests, has modular construction which makes it easy to maintain even large applications. With MVC pattern there is a clear separation between business logic and views. For creating views razor language is used and for business logic can be used  by any language supported by the .NET common language runtime (ex. C#, VB).  
 
 #### More Information:
 - [ASP .NET Tutorials](https://www.tutorialspoint.com/asp.net/)
