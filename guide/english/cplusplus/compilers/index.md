@@ -4,19 +4,19 @@ title: C++ Compilers
 
 # Intro to C++ Compilers
 
-In order to get started with C++, you will need to learn a little about compilers and how C++ runs on your computer.
+In order to get started with C++, you  need to learn a little about compilers and how C++ runs on your computer.
 
 When all is said and done, computers only understand one language, machine language. Machine language is entirely made up of
 binary bits, or 0s and 1s. While it would be possible to program in binary, it would be incredibly tedious and time consuming. 
 So, we humans developed programming languages to make it easier to develop software. Assembly language is a direct 1 to 1 with machine
-language. Languages like C, C++, and COBOL are a little higher and need to be compiled down. It goes even higher. Languages
+language. Languages like C, C++, and COBOL are a little higher and need to be compiled it  down. It goes even higher. Languages
 like JavaScript and Python have components that get translated into C++ or other low level languages before they get compiled, 
 effectively making them "higher" languages than C or C++.
 Because computer architecture is made up of electronic switches and cables that can only work with binary 1s and 0s,
 you need a compiler to translate your code from high level C++ to machine language that the CPU can understand.
 
-Compilers are utility programs that take your code and transform it into executable machine code files. When you run a compiler
-on your code, first, the preprocessor reads the source code (the C++ file you just wrote). The preprocessor searches for any
+Compilers are utility programs that take your code and transform it into executable machine code files. When you run a code
+on your compiler, first, the preprocessor reads the source code (the C++ file you just wrote). The preprocessor searches for any
 preprocessor directives (lines of code starting with a #). Preprocessor directives cause the
 preprocessor to change your code in some way (by usually adding some library or another C++ file). 
 Next, the compiler works through the preprocessed code line by line translating
