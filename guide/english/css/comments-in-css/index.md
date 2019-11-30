@@ -3,7 +3,7 @@ title: Comments in CSS
 ---
 ## Comments in CSS
 
-Comments are used in CSS to explain a block of code or to make temporary changes during development. The commented code doesn't execute.
+Comments are used in CSS to explain a block of code or to make any temporary changes during development. The commented code doesn't execute.
 
 The comment syntax in CSS works for both single and multi-line comments. You can add as many comments to your stylesheet as you like.
 
@@ -17,7 +17,7 @@ The comment syntax in CSS works for both single and multi-line comments. You can
 /* This is a single line comment*/
 ```
 
-By using CSS comments to make your stylesheets more readable, the CSS will be easier to maintain in the future for you or another developer. 
+By using CSS comments to make your stylesheets more readable, the CSS will be easier to maintain in the future for you or for another developer. 
 It’s good practice to use CSS comments to help identify parts of any stylesheet that might be difficult to understand for someone who didn't write the code. 
 
 You can also make your comments more readable by stylizing them.  
