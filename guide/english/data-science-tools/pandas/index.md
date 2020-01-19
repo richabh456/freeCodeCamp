@@ -24,7 +24,7 @@ import pandas as pd
 ```
 
 ## Data frames
-A data frame consists of a number of rows and columns. Each column represents a feature of the data set, and so has a name and a data type. Each row represents a data point through associated feature values. The pandas library allows you to manipulate the data in a data frame in various ways. pandas has a lot of possibilities, so the following is merely scratching the surface to give a feel for the library.
+A data frame consists of a number of rows and columns. Each column represents a feature of the data set, and so has a name and a data type. Each row represents a data point through associated feature values. The pandas library allows us to manipulate the data in a data frame in various ways. pandas has a lot of possibilities, so the following is merely scratching the surface to give a feel for the library.
 
 How to create a new dataframe:
 ```python
