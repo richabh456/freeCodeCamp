@@ -7,6 +7,9 @@ title: What Is Python Used for
 Python can easily be used for small, large, online and offline projects. The best options for utilizing Python are web development, simple scripting and data analysis.
 Below are a few examples of what Python will let you do:
 
+Advantages of python:
+The main python advantages are that it is easy to read and learn ,it is easier to write a program in python than in any other programming language,we can gain the possibility to think clearly while coding.
+
 ##### Web Development:
 You can use Python to create web applications on many levels of complexity. There are many excellent Python web frameworks, including <a href='https://trypyramid.com/' target='_blank' rel='nofollow'>Pyramid</a>, <a href='https://www.djangoproject.com/' target='_blank' rel='nofollow'>Django</a> and <a href='http://flask.pocoo.org/' target='_blank' rel='nofollow'>Flask</a>, to name
 a few.
